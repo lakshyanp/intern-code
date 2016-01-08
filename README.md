@@ -1,0 +1,2 @@
+# intern-code
+here is a python program in which two function run concurrently, the first function generates two random numbers, the second function select one of the basic operations randomly and gives the output  :::  now comes a second code which is developed for linux environment(ubuntu) which moves the text documents to Documents folder(i.e .txt and .pdf) all imaes files to Pictures(i.e .jpg and .png) and all videos are deleted(i.e .mpg .avi), the(Documents and Pictures folder are the default ones)
